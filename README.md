@@ -23,6 +23,8 @@ Ahmed Munir armunir@cs.washington.edu
 Chenxu Song cssong98@cs.washington.edu
 
 ## Game Link:
-https://ngutn24.itch.io/heros-draw
-https://www.newgrounds.com/portal/view/845055
+https://ngutn24.itch.io/heros-draw 
+
+https://www.newgrounds.com/portal/view/845055 
+
 https://roastmygame.com/game/heros-draw
